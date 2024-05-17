@@ -19,6 +19,7 @@ function TodoList({ todos, toggleTodo, removeTodo }) {
             />
           ))}
       </div>
+      <div className="horizontalLine"></div>
       <h2>Done !</h2>
       <div className="todo-list">
         {todos

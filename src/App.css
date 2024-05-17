@@ -1,4 +1,4 @@
-#root {
+/* #root {
   width: 1200px;
   height: 800px;
   margin: 0 auto;
@@ -40,10 +40,14 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
 
 .horizontalLine {
   border-top: 3px solid #000;
   width: 100%;
   border-radius: 10px;
+}
+
+.icons {
+  display: flex;
 }
